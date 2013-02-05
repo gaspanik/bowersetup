@@ -1,0 +1,4 @@
+bowersetup
+==========
+
+bower install testset
