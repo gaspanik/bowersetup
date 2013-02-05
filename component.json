@@ -4,7 +4,6 @@
   "dependencies": {
     "html5shiv": null,
     "jquery": null,
-    "jquery-waypoints": null,
     "requirejs": null,
     "normalize-css": null,
     "htaccess": "git://github.com/sergeychernyshev/.htaccess.git"
